@@ -10,9 +10,9 @@ const SCHOOL = {
   regNo: "S.5944",
   centreNo: "S.6697",
   motto: "Faith, Knowledge & Service",          // TODO: confirm official motto
-  phone: "+255 XXX XXX XXX",                    // TODO: real school phone
+  phone: "+255 64652388",                    // TODO: real school phone
   email: "carmelsch.girls@gmail.com",
-  admissionsEmail: "carmelsch.girls@gmail.com",
+  admissionsEmail: "carmelgirlsschooltz@gmail.com",
   poBox: "P.O. Box [0000], Arusha, Tanzania",   // TODO: real P.O. Box
   location: "Olasiti Ward, Arusha District, Arusha Region",
   hours: "Mon – Fri: 7:30 AM – 4:30 PM",        // TODO: confirm office hours
